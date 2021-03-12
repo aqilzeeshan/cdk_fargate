@@ -1,3 +1,5 @@
+- https://docs.aws.amazon.com/cdk/latest/guide/ecs_example.html
+- To do https://ecsworkshop.com/introduction/
 # Welcome to your CDK TypeScript project!
 
 This is a blank project for TypeScript development with CDK.
